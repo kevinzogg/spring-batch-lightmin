@@ -14,9 +14,9 @@
 
     <modules>
         <module>spring-batch-lightmin-client-core</module>
-        <module>spring-batch-lightmin-client-discovery-consul</module>
+        <!--module>spring-batch-lightmin-client-discovery-consul</module>
         <module>spring-batch-lightmin-client-discovery-eureka</module>
-        <module>spring-batch-lightmin-client-discovery-core</module>
+        <module>spring-batch-lightmin-client-discovery-core</module-->
         <module>spring-batch-lightmin-client-classic</module>
     </modules>
 
